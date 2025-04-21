@@ -12,7 +12,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": Nope,
+      "execution_count": None,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
